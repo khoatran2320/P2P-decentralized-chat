@@ -2,6 +2,9 @@
 
 This is a peer to peer chat application that uses the Gun module that focuses on a decentralized, offline-first architecture. This application has been built following the tutorial: https://www.youtube.com/watch?v=Rc2sIPDrX_k&t=283s&ab_channel=NaderDabit. 
 
+
+Gun is a decentralized peer-to-peer architecture that offers local-first, offline, and decentralized communication with end-to-end encryption. The system uses hashing and encryption similar to ideas implemented in blockchain technology. Every peer has a local copy of the data and is synced with others once connected. 
+
 ## Connection from 3 windows
 
 3 windows are connected to the same room where everyone can see all the chats
